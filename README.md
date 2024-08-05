@@ -1,2 +1,3 @@
-# Desafio05
-Quinto desafio do curso de python do curso em video 
+Só mostra o antecessor e o sucessor de um numero
+
+<img src=https://github.com/user-attachments/assets/1c54f799-6bd2-4942-9cd9-f47da9301488 width=100>
